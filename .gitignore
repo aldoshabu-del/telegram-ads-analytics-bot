@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Sensitive files
+bot_token.txt
+
+# Data files
+*.xlsx
+*.csv
+
+# VS Code
+.vscode/
